@@ -10,6 +10,5 @@ public class TestVehicle1{
             System.out.println("Add box #4 (4000kg) : " + vehicle.addBox(4000)); 
             System.out.println("Add box #5 (300kg) : " + vehicle.addBox(300)); 
             System.out.println("Vehicle load is " + vehicle.getLoad() + "kg"); 
-
     } 
 }
