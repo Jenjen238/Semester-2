@@ -4,16 +4,16 @@ public class MainKue {
     public static void main(String[] args) {
         Kue[] daftarKue = new Kue[20];
 
-        daftarKue[0]  = new KuePesanan("Kue Lapis Legit", 150000, 1.5);
-        daftarKue[1]  = new KuePesanan("Brownies Coklat", 80000, 2.0);
-        daftarKue[2]  = new KuePesanan("Bolu Gulung", 60000, 1.0);
-        daftarKue[3]  = new KuePesanan("Kue Tart Strawberry", 120000, 2.5);
-        daftarKue[4]  = new KuePesanan("Red Velvet Cake", 200000, 1.8);
-        daftarKue[5]  = new KuePesanan("Cheesecake", 180000, 1.2);
-        daftarKue[6]  = new KuePesanan("Tiramisu", 175000, 1.0);
-        daftarKue[7]  = new KuePesanan("Black Forest", 130000, 2.0);
-        daftarKue[8]  = new KuePesanan("Kue Nastar Spesial", 90000, 3.0);
-        daftarKue[9]  = new KuePesanan("Bolu Pandan", 70000, 1.5);
+        daftarKue[0] = new KuePesanan("Kue Lapis Legit", 150000, 1.5);
+        daftarKue[1] = new KuePesanan("Brownies Coklat", 80000, 2.0);
+        daftarKue[2] = new KuePesanan("Bolu Gulung", 60000, 1.0);
+        daftarKue[3] = new KuePesanan("Kue Tart Strawberry", 120000, 2.5);
+        daftarKue[4] = new KuePesanan("Red Velvet Cake", 200000, 1.8);
+        daftarKue[5] = new KuePesanan("Cheesecake", 180000, 1.2);
+        daftarKue[6] = new KuePesanan("Tiramisu", 175000, 1.0);
+        daftarKue[7] = new KuePesanan("Black Forest", 130000, 2.0);
+        daftarKue[8] = new KuePesanan("Kue Nastar Spesial", 90000, 3.0);
+        daftarKue[9] = new KuePesanan("Bolu Pandan", 70000, 1.5);
 
         daftarKue[10] = new KueJadi("Onde-onde", 2000, 20);
         daftarKue[11] = new KueJadi("Risoles Mayo", 3000, 15);
